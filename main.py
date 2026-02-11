@@ -1,7 +1,7 @@
 # Coaching Management System
 # Language: Python
 # Database: SQLite
-# Author: Your Name
+# Author: Puja Kumari 
 
 import sqlite3
 
